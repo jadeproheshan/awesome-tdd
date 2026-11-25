@@ -1,0 +1,5 @@
+.DS_Store
+black/
+__pycache__/
+*.pyc
+.pytest_cache/
