@@ -1,10 +1,3 @@
 {
-  "skills/tdd-batch/SKILL.md": "d2d8a02b006935bc50ca3787e49e12f72f1c6dabc2cbcc302083993cc58183d9",
-  "skills/tdd-case/SKILL.md": "bc93582a57591a3e9f6ba168ac1bfd56d5120b41c41b9a867a4b36edf493b3b7",
-  "skills/tdd-contract/SKILL.md": "ce8ca8e34cafb02d845ca0a9c89755da7e11f29978f438184a4cf56ae8feb081",
-  "skills/tdd-green/SKILL.md": "8819734bcc6caa2abef69eb09f969875fd5403e22ca02d406117b2bd7205492d",
-  "skills/tdd-red/SKILL.md": "9b4d6baf541e44a4762081eacd61d9551384974b0acdd3b44f3137f0025c96fe",
-  "skills/tdd-refactor/SKILL.md": "e64202b985020c21a43c7129bbabe5fa06f2a8666b613947b5038b41605a6ae0",
-  "skills/tdd-scope/SKILL.md": "8d82ec152ac82d3972b912cbc66406437eca46fb710ebf22346b37e1abf33146",
-  "skills/tdd-verify/SKILL.md": "6a3dc74d1d9805f74803e77482d0ba92a6b7de8c9bc19026dcb8df197c8a6f24"
+  "skills/tdd/SKILL.md": "6c2ead8bdc74fba86b007c66694d84d9b159816e8227622493dfe34e0b09a662"
 }

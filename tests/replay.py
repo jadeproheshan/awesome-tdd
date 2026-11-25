@@ -5,6 +5,15 @@ import subprocess
 import sys
 
 SCENARIOS = {
+    # Current single-entry skill: fresh agent-created fixtures.
+    "unified-cart": (7, 0, 0),
+    "unified-points-review": (13, 29, 0),
+    "unified-points-complete": (13, 0, 0),
+    "unified-already-green": (2, 0, 0),
+    "unified-read-only": (1, 1, 0),
+    "unified-todo-review": (7, 0, 9),
+    "unified-todo-complete": (7, 0, 0),
+    # Historical sample regressions; not new single-entry agent evaluations.
     "booking": (6, 0, 0),
     "inventory-review": (10, 33, 0),
     "inventory-complete": (10, 0, 0),
